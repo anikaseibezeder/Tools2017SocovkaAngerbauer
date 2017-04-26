@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 	public void thisIsANewMethod(){
 		System.out.println("Hello unnecessary comment!");
 		int i = 0;
+		int a = 21;
 	}
 }
