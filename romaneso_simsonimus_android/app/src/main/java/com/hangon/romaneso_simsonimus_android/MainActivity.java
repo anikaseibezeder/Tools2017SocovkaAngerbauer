@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
 		
 		//This should be the bugfix
 		i=1;
+		//Second one
+		i=4;
 	}
 }
