@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
 	public void thisIsANewMethod(){
 		System.out.println("Hello unnecessary comment!");
 		int i = 0;
+		
+		//This should be the bugfix
+		i=1;
 	}
 }
