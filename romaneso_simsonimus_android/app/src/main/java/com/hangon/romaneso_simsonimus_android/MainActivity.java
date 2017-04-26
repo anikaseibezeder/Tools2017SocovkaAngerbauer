@@ -16,6 +16,11 @@ public class MainActivity extends AppCompatActivity {
 		System.out.println("Hello unnecessary comment!");
 		int i = 0;
 		int a = 21;
+		
+		//This should be the bugfix
+		i=1;
+		//Second one
+		i=4;
 	}
 	public void thisIsAVeryNewMethod(){
 		int x = 32;
