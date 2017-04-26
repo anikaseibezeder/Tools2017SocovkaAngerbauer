@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
 		int i = 0;
 		int a = 21;
 	}
-	public void thisIsAVeryNewMethod(){}
+	public void thisIsAVeryNewMethod(){
+		int x = 32;
+	}
 }
