@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
 		
 		setContentView(R.layout.activity_main); //Well, code duplication is perfect
     }
-	public void thisIsANewMethod(){}
+	public void thisIsANewMethod(){
+		int i = 0;
+	}
 }
