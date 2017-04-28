@@ -22,5 +22,11 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.hangon.romaneso_simsonimus_android", appContext.getPackageName());
+		//this is an infinite loop
+		
+		while(true)
+		{
+			
+		}
     }
 }
